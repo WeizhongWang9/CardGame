@@ -1,0 +1,40 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "\u4EFB\u52A1-Effect",
+      "appliesTo": "Game/GameEvents/Effect.cs",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "task-Cards",
+      "appliesTo": "Game/Cards.cs",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "task-GameEvents",
+      "appliesTo": "Game/GameEvents/",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "task-Game",
+      "appliesTo": "Game/",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "task-Game",
+      "appliesTo": "Game/",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "task-Game",
+      "appliesTo": "Game/",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "task-CardEvents",
+      "appliesTo": "Game/CardEvents.cs",
+      "type": "launch"
+    }
+  ]
+}

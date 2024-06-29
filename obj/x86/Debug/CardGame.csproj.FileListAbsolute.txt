@@ -1,0 +1,6 @@
+E:\Projects\Games\Tabletop Game\CardGame\obj\x86\Debug\CardGame.csproj.AssemblyReference.cache
+E:\Projects\Games\Tabletop Game\CardGame\obj\x86\Debug\CardGame.csproj.CoreCompileInputs.cache
+E:\Projects\Games\Tabletop Game\CardGame\bin\Debug\ConsoleApplication.exe
+E:\Projects\Games\Tabletop Game\CardGame\bin\Debug\ConsoleApplication.pdb
+E:\Projects\Games\Tabletop Game\CardGame\obj\x86\Debug\ConsoleApplication.exe
+E:\Projects\Games\Tabletop Game\CardGame\obj\x86\Debug\ConsoleApplication.pdb
