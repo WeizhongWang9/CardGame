@@ -9,24 +9,10 @@ namespace CardGame.Game.GameTerms
 
 
     // public enum Role { Police, Scientist, Dissident }
-    public class Unit : ObjectOnMap
+    public class Unit : InGameObject
     {
-        public int movePoint { set; get; }
-        //    public Role role { set; get; }
-
-
-        //public Unit(Player Owner, string name, string des, Role role, GameNode loc):base(Owner, name, des)
-        //{
-        //    this.loc = loc;
-        //    this.role = role;
-        //}
-        public Unit(GameNode loc, Player Owner, string name, string des) : base(loc, Owner, name, des)
-        {
-        }
-
-        public Unit() : this(null, null, "An unit", "Some units") { }
     }
-
+    /*
     public class Dissident : Unit
     {
         int Wanted;
@@ -57,4 +43,5 @@ namespace CardGame.Game.GameTerms
     {
         
     }
+    */
 }

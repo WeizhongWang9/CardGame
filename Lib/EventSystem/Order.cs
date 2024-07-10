@@ -7,18 +7,21 @@ using System.Windows.Forms;
 namespace CardGame.Lib.EventSystem.Order
 {
     /// <summary>
-    /// An order is an effect with a validation. 
+    /// An order is a validation. 
     /// </summary>
-    public abstract class Order<T, U> where T : IEffect<U>
+    public abstract class Order<T>
     {
-        protected T effect;
-        public abstract bool check(U item, out string errorText);
-        public Order(T effect) { this.effect = effect; }
-        public bool tryCall(U item, out string errorText)
+        EventManager eveSys;
+        public abstract bool check(T e, out string errorText);
+        public Order(EventManager eveSys) 
+        { 
+            this.eveSys = eveSys;
+        }
+        public bool tryCall(T item, out string errorText)
         {
             if (check(item,out errorText))
             {
-                effect.call(item);
+                eveSys.emitEvent(item);
                 return true;
             }
             return false;

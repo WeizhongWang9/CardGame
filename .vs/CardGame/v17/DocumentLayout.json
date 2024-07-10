@@ -3,24 +3,96 @@
   "WorkspaceRootPath": "E:\\Projects\\Games\\Tabletop Game\\CardGame\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{81A2DD4B-0098-469F-81A8-DC31D5F8FB5F}|CardGame.csproj|e:\\projects\\games\\tabletop game\\cardgame\\game\\gameterms\\units\\gamenode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81A2DD4B-0098-469F-81A8-DC31D5F8FB5F}|CardGame.csproj|solutionrelative:game\\gameterms\\units\\gamenode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81A2DD4B-0098-469F-81A8-DC31D5F8FB5F}|CardGame.csproj|e:\\projects\\games\\tabletop game\\cardgame\\game\\gameterms\\units\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81A2DD4B-0098-469F-81A8-DC31D5F8FB5F}|CardGame.csproj|solutionrelative:game\\gameterms\\units\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81A2DD4B-0098-469F-81A8-DC31D5F8FB5F}|CardGame.csproj|e:\\projects\\games\\tabletop game\\cardgame\\game\\gameterms\\units\\unithandle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81A2DD4B-0098-469F-81A8-DC31D5F8FB5F}|CardGame.csproj|solutionrelative:game\\gameterms\\units\\unithandle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81A2DD4B-0098-469F-81A8-DC31D5F8FB5F}|CardGame.csproj|E:\\Projects\\Games\\Tabletop Game\\CardGame\\game\\gameterms\\units\\units.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81A2DD4B-0098-469F-81A8-DC31D5F8FB5F}|CardGame.csproj|solutionrelative:game\\gameterms\\units\\units.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81A2DD4B-0098-469F-81A8-DC31D5F8FB5F}|CardGame.csproj|E:\\Projects\\Games\\Tabletop Game\\CardGame\\game\\gameterms\\abilities\\wanted.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81A2DD4B-0098-469F-81A8-DC31D5F8FB5F}|CardGame.csproj|solutionrelative:game\\gameterms\\abilities\\wanted.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81A2DD4B-0098-469F-81A8-DC31D5F8FB5F}|CardGame.csproj|e:\\projects\\games\\tabletop game\\cardgame\\game\\gameterms\\abilities\\abilityunitkeeping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81A2DD4B-0098-469F-81A8-DC31D5F8FB5F}|CardGame.csproj|solutionrelative:game\\gameterms\\abilities\\abilityunitkeeping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81A2DD4B-0098-469F-81A8-DC31D5F8FB5F}|CardGame.csproj|E:\\Projects\\Games\\Tabletop Game\\CardGame\\game\\gameterms\\abilities\\abilityorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81A2DD4B-0098-469F-81A8-DC31D5F8FB5F}|CardGame.csproj|solutionrelative:game\\gameterms\\abilities\\abilityorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81A2DD4B-0098-469F-81A8-DC31D5F8FB5F}|CardGame.csproj|e:\\projects\\games\\tabletop game\\cardgame\\game\\gameterms\\abilities\\abilityneighborhood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81A2DD4B-0098-469F-81A8-DC31D5F8FB5F}|CardGame.csproj|solutionrelative:game\\gameterms\\abilities\\abilityneighborhood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81A2DD4B-0098-469F-81A8-DC31D5F8FB5F}|CardGame.csproj|e:\\projects\\games\\tabletop game\\cardgame\\game\\gameterms\\abilities\\abilitymove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81A2DD4B-0098-469F-81A8-DC31D5F8FB5F}|CardGame.csproj|solutionrelative:game\\gameterms\\abilities\\abilitymove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81A2DD4B-0098-469F-81A8-DC31D5F8FB5F}|CardGame.csproj|E:\\Projects\\Games\\Tabletop Game\\CardGame\\game\\gameterms\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81A2DD4B-0098-469F-81A8-DC31D5F8FB5F}|CardGame.csproj|solutionrelative:game\\gameterms\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81A2DD4B-0098-469F-81A8-DC31D5F8FB5F}|CardGame.csproj|E:\\Projects\\Games\\Tabletop Game\\CardGame\\game\\gameterms\\cardutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81A2DD4B-0098-469F-81A8-DC31D5F8FB5F}|CardGame.csproj|solutionrelative:game\\gameterms\\cardutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81A2DD4B-0098-469F-81A8-DC31D5F8FB5F}|CardGame.csproj|E:\\Projects\\Games\\Tabletop Game\\CardGame\\game\\gameterms\\decks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81A2DD4B-0098-469F-81A8-DC31D5F8FB5F}|CardGame.csproj|solutionrelative:game\\gameterms\\decks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81A2DD4B-0098-469F-81A8-DC31D5F8FB5F}|CardGame.csproj|E:\\Projects\\Games\\Tabletop Game\\CardGame\\game\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81A2DD4B-0098-469F-81A8-DC31D5F8FB5F}|CardGame.csproj|solutionrelative:game\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81A2DD4B-0098-469F-81A8-DC31D5F8FB5F}|CardGame.csproj|e:\\projects\\games\\tabletop game\\cardgame\\game\\global.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81A2DD4B-0098-469F-81A8-DC31D5F8FB5F}|CardGame.csproj|solutionrelative:game\\global.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81A2DD4B-0098-469F-81A8-DC31D5F8FB5F}|CardGame.csproj|E:\\Projects\\Games\\Tabletop Game\\CardGame\\game\\gameterms\\abilities\\ability.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81A2DD4B-0098-469F-81A8-DC31D5F8FB5F}|CardGame.csproj|solutionrelative:game\\gameterms\\abilities\\ability.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81A2DD4B-0098-469F-81A8-DC31D5F8FB5F}|CardGame.csproj|e:\\projects\\games\\tabletop game\\cardgame\\game\\gameterms\\skills\\skillmove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81A2DD4B-0098-469F-81A8-DC31D5F8FB5F}|CardGame.csproj|solutionrelative:game\\gameterms\\skills\\skillmove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81A2DD4B-0098-469F-81A8-DC31D5F8FB5F}|CardGame.csproj|E:\\Projects\\Games\\Tabletop Game\\CardGame\\game\\gameterms\\skills\\skillcast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81A2DD4B-0098-469F-81A8-DC31D5F8FB5F}|CardGame.csproj|solutionrelative:game\\gameterms\\skills\\skillcast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81A2DD4B-0098-469F-81A8-DC31D5F8FB5F}|CardGame.csproj|E:\\Projects\\Games\\Tabletop Game\\CardGame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81A2DD4B-0098-469F-81A8-DC31D5F8FB5F}|CardGame.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81A2DD4B-0098-469F-81A8-DC31D5F8FB5F}|CardGame.csproj|E:\\Projects\\Games\\Tabletop Game\\CardGame\\game\\gameterms\\skills\\cast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81A2DD4B-0098-469F-81A8-DC31D5F8FB5F}|CardGame.csproj|solutionrelative:game\\gameterms\\skills\\cast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81A2DD4B-0098-469F-81A8-DC31D5F8FB5F}|CardGame.csproj|E:\\Projects\\Games\\Tabletop Game\\CardGame\\game\\gameterms\\skills\\targetselectors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81A2DD4B-0098-469F-81A8-DC31D5F8FB5F}|CardGame.csproj|solutionrelative:game\\gameterms\\skills\\targetselectors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81A2DD4B-0098-469F-81A8-DC31D5F8FB5F}|CardGame.csproj|E:\\Projects\\Games\\Tabletop Game\\CardGame\\game\\utilities\\target.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81A2DD4B-0098-469F-81A8-DC31D5F8FB5F}|CardGame.csproj|solutionrelative:game\\utilities\\target.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{81A2DD4B-0098-469F-81A8-DC31D5F8FB5F}|CardGame.csproj|E:\\Projects\\Games\\Tabletop Game\\CardGame\\game\\gameevents\\effects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{81A2DD4B-0098-469F-81A8-DC31D5F8FB5F}|CardGame.csproj|solutionrelative:game\\gameevents\\effects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{81A2DD4B-0098-469F-81A8-DC31D5F8FB5F}|CardGame.csproj|e:\\projects\\games\\tabletop game\\cardgame\\game\\gameevents\\events.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81A2DD4B-0098-469F-81A8-DC31D5F8FB5F}|CardGame.csproj|solutionrelative:game\\gameevents\\events.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{81A2DD4B-0098-469F-81A8-DC31D5F8FB5F}|CardGame.csproj|e:\\projects\\games\\tabletop game\\cardgame\\game\\gameterms\\units.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81A2DD4B-0098-469F-81A8-DC31D5F8FB5F}|CardGame.csproj|solutionrelative:game\\gameterms\\units.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{81A2DD4B-0098-469F-81A8-DC31D5F8FB5F}|CardGame.csproj|E:\\Projects\\Games\\Tabletop Game\\CardGame\\game\\gameterms\\gameterms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81A2DD4B-0098-469F-81A8-DC31D5F8FB5F}|CardGame.csproj|solutionrelative:game\\gameterms\\gameterms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{81A2DD4B-0098-469F-81A8-DC31D5F8FB5F}|CardGame.csproj|e:\\projects\\games\\tabletop game\\cardgame\\game\\gameevents\\info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81A2DD4B-0098-469F-81A8-DC31D5F8FB5F}|CardGame.csproj|solutionrelative:game\\gameevents\\info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{81A2DD4B-0098-469F-81A8-DC31D5F8FB5F}|CardGame.csproj|E:\\Projects\\Games\\Tabletop Game\\CardGame\\game\\gameevents\\eventsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81A2DD4B-0098-469F-81A8-DC31D5F8FB5F}|CardGame.csproj|solutionrelative:game\\gameevents\\eventsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,78 +102,308 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Units.cs",
-              "DocumentMoniker": "E:\\Projects\\Games\\Tabletop Game\\CardGame\\Game\\GameTerms\\Units.cs",
-              "RelativeDocumentMoniker": "Game\\GameTerms\\Units.cs",
-              "ToolTip": "E:\\Projects\\Games\\Tabletop Game\\CardGame\\Game\\GameTerms\\Units.cs",
-              "RelativeToolTip": "Game\\GameTerms\\Units.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAD4vykAAAApAAAA",
+              "DocumentIndex": 11,
+              "Title": "Decks.cs",
+              "DocumentMoniker": "E:\\Projects\\Games\\Tabletop Game\\CardGame\\Game\\GameTerms\\Decks.cs",
+              "RelativeDocumentMoniker": "Game\\GameTerms\\Decks.cs",
+              "ToolTip": "E:\\Projects\\Games\\Tabletop Game\\CardGame\\Game\\GameTerms\\Decks.cs",
+              "RelativeToolTip": "Game\\GameTerms\\Decks.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-29T09:30:02.347Z",
+              "WhenOpened": "2024-07-02T05:42:48.001Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Game.cs",
+              "DocumentMoniker": "E:\\Projects\\Games\\Tabletop Game\\CardGame\\Game\\Game.cs",
+              "RelativeDocumentMoniker": "Game\\Game.cs",
+              "ToolTip": "E:\\Projects\\Games\\Tabletop Game\\CardGame\\Game\\Game.cs",
+              "RelativeToolTip": "Game\\Game.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAtwBUAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T05:42:49.735Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AbilityOrder.cs",
+              "DocumentMoniker": "E:\\Projects\\Games\\Tabletop Game\\CardGame\\Game\\GameTerms\\Abilities\\AbilityOrder.cs",
+              "RelativeDocumentMoniker": "Game\\GameTerms\\Abilities\\AbilityOrder.cs",
+              "ToolTip": "E:\\Projects\\Games\\Tabletop Game\\CardGame\\Game\\GameTerms\\Abilities\\AbilityOrder.cs",
+              "RelativeToolTip": "Game\\GameTerms\\Abilities\\AbilityOrder.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAwD4AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T07:20:46.674Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AbilityUnitKeeping.cs",
+              "DocumentMoniker": "E:\\Projects\\Games\\Tabletop Game\\CardGame\\Game\\GameTerms\\Abilities\\AbilityUnitKeeping.cs",
+              "RelativeDocumentMoniker": "Game\\GameTerms\\Abilities\\AbilityUnitKeeping.cs",
+              "ToolTip": "E:\\Projects\\Games\\Tabletop Game\\CardGame\\Game\\GameTerms\\Abilities\\AbilityUnitKeeping.cs",
+              "RelativeToolTip": "Game\\GameTerms\\Abilities\\AbilityUnitKeeping.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T05:21:35.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Wanted.cs",
+              "DocumentMoniker": "E:\\Projects\\Games\\Tabletop Game\\CardGame\\Game\\GameTerms\\Abilities\\Wanted.cs",
+              "RelativeDocumentMoniker": "Game\\GameTerms\\Abilities\\Wanted.cs",
+              "ToolTip": "E:\\Projects\\Games\\Tabletop Game\\CardGame\\Game\\GameTerms\\Abilities\\Wanted.cs",
+              "RelativeToolTip": "Game\\GameTerms\\Abilities\\Wanted.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T23:36:27.836Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "GameTerms.cs",
-              "DocumentMoniker": "E:\\Projects\\Games\\Tabletop Game\\CardGame\\Game\\GameTerms\\GameTerms.cs",
-              "RelativeDocumentMoniker": "Game\\GameTerms\\GameTerms.cs",
-              "ToolTip": "E:\\Projects\\Games\\Tabletop Game\\CardGame\\Game\\GameTerms\\GameTerms.cs",
-              "RelativeToolTip": "Game\\GameTerms\\GameTerms.cs",
-              "ViewState": "AQIAAEwAAAAAAAAAAAAtwF4AAABHAAAA",
+              "Title": "Units.cs",
+              "DocumentMoniker": "E:\\Projects\\Games\\Tabletop Game\\CardGame\\Game\\GameTerms\\Units\\Units.cs",
+              "RelativeDocumentMoniker": "Game\\GameTerms\\Units\\Units.cs",
+              "ToolTip": "E:\\Projects\\Games\\Tabletop Game\\CardGame\\Game\\GameTerms\\Units\\Units.cs",
+              "RelativeToolTip": "Game\\GameTerms\\Units\\Units.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAYAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-28T10:43:46.533Z",
+              "WhenOpened": "2024-07-02T00:57:48.229Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 8,
+              "Title": "AbilityMove.cs",
+              "DocumentMoniker": "E:\\Projects\\Games\\Tabletop Game\\CardGame\\Game\\GameTerms\\Abilities\\AbilityMove.cs",
+              "RelativeDocumentMoniker": "Game\\GameTerms\\Abilities\\AbilityMove.cs",
+              "ToolTip": "E:\\Projects\\Games\\Tabletop Game\\CardGame\\Game\\GameTerms\\Abilities\\AbilityMove.cs",
+              "RelativeToolTip": "Game\\GameTerms\\Abilities\\AbilityMove.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T02:58:46.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Player.cs",
+              "DocumentMoniker": "E:\\Projects\\Games\\Tabletop Game\\CardGame\\Game\\GameTerms\\Player.cs",
+              "RelativeDocumentMoniker": "Game\\GameTerms\\Player.cs",
+              "ToolTip": "E:\\Projects\\Games\\Tabletop Game\\CardGame\\Game\\GameTerms\\Player.cs",
+              "RelativeToolTip": "Game\\GameTerms\\Player.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T00:54:08.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CardUtility.cs",
+              "DocumentMoniker": "E:\\Projects\\Games\\Tabletop Game\\CardGame\\Game\\GameTerms\\CardUtility.cs",
+              "RelativeDocumentMoniker": "Game\\GameTerms\\CardUtility.cs",
+              "ToolTip": "E:\\Projects\\Games\\Tabletop Game\\CardGame\\Game\\GameTerms\\CardUtility.cs",
+              "RelativeToolTip": "Game\\GameTerms\\CardUtility.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAUAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T01:02:20.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Global.cs",
+              "DocumentMoniker": "E:\\Projects\\Games\\Tabletop Game\\CardGame\\Game\\Global.cs",
+              "RelativeDocumentMoniker": "Game\\Global.cs",
+              "ToolTip": "E:\\Projects\\Games\\Tabletop Game\\CardGame\\Game\\Global.cs",
+              "RelativeToolTip": "Game\\Global.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T10:57:29.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Ability.cs",
+              "DocumentMoniker": "E:\\Projects\\Games\\Tabletop Game\\CardGame\\Game\\GameTerms\\Abilities\\Ability.cs",
+              "RelativeDocumentMoniker": "Game\\GameTerms\\Abilities\\Ability.cs",
+              "ToolTip": "E:\\Projects\\Games\\Tabletop Game\\CardGame\\Game\\GameTerms\\Abilities\\Ability.cs",
+              "RelativeToolTip": "Game\\GameTerms\\Abilities\\Ability.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T03:06:35.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
               "Title": "Effects.cs",
               "DocumentMoniker": "E:\\Projects\\Games\\Tabletop Game\\CardGame\\Game\\GameEvents\\Effects.cs",
               "RelativeDocumentMoniker": "Game\\GameEvents\\Effects.cs",
               "ToolTip": "E:\\Projects\\Games\\Tabletop Game\\CardGame\\Game\\GameEvents\\Effects.cs",
               "RelativeToolTip": "Game\\GameEvents\\Effects.cs",
-              "ViewState": "AQIAAB8AAAAAAAAAAAAQwJcAAAAAAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABsAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-28T01:35:55.088Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-02T00:35:42.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "EventSystem.cs",
+              "DocumentMoniker": "E:\\Projects\\Games\\Tabletop Game\\CardGame\\Game\\GameEvents\\EventSystem.cs",
+              "RelativeDocumentMoniker": "Game\\GameEvents\\EventSystem.cs",
+              "ToolTip": "E:\\Projects\\Games\\Tabletop Game\\CardGame\\Game\\GameEvents\\EventSystem.cs",
+              "RelativeToolTip": "Game\\GameEvents\\EventSystem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T00:37:05.619Z"
             }
           ]
         },
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Info.cs",
-              "DocumentMoniker": "E:\\Projects\\Games\\Tabletop Game\\CardGame\\Game\\GameEvents\\Info.cs",
-              "RelativeDocumentMoniker": "Game\\GameEvents\\Info.cs",
-              "ToolTip": "E:\\Projects\\Games\\Tabletop Game\\CardGame\\Game\\GameEvents\\Info.cs",
-              "RelativeToolTip": "Game\\GameEvents\\Info.cs",
-              "ViewState": "AQIAADMAAAAAAAAAAAA0wFYAAAAAAAAA",
+              "DocumentIndex": 1,
+              "Title": "Token.cs",
+              "DocumentMoniker": "E:\\Projects\\Games\\Tabletop Game\\CardGame\\Game\\GameTerms\\Units\\Token.cs",
+              "RelativeDocumentMoniker": "Game\\GameTerms\\Units\\Token.cs",
+              "ToolTip": "E:\\Projects\\Games\\Tabletop Game\\CardGame\\Game\\GameTerms\\Units\\Token.cs",
+              "RelativeToolTip": "Game\\GameTerms\\Units\\Token.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-29T10:55:57.084Z",
+              "WhenOpened": "2024-07-09T12:00:07.606Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Events.cs",
-              "DocumentMoniker": "E:\\Projects\\Games\\Tabletop Game\\CardGame\\Game\\GameEvents\\Events.cs",
-              "RelativeDocumentMoniker": "Game\\GameEvents\\Events.cs",
-              "ToolTip": "E:\\Projects\\Games\\Tabletop Game\\CardGame\\Game\\GameEvents\\Events.cs",
-              "RelativeToolTip": "Game\\GameEvents\\Events.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABoAAABHAAAA",
+              "DocumentIndex": 2,
+              "Title": "UnitHandle.cs",
+              "DocumentMoniker": "E:\\Projects\\Games\\Tabletop Game\\CardGame\\Game\\GameTerms\\Units\\UnitHandle.cs",
+              "RelativeDocumentMoniker": "Game\\GameTerms\\Units\\UnitHandle.cs",
+              "ToolTip": "E:\\Projects\\Games\\Tabletop Game\\CardGame\\Game\\GameTerms\\Units\\UnitHandle.cs",
+              "RelativeToolTip": "Game\\GameTerms\\Units\\UnitHandle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-29T09:57:25.484Z",
+              "WhenOpened": "2024-07-09T11:57:54.079Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AbilityNeighborhood.cs",
+              "DocumentMoniker": "E:\\Projects\\Games\\Tabletop Game\\CardGame\\Game\\GameTerms\\Abilities\\AbilityNeighborhood.cs",
+              "RelativeDocumentMoniker": "Game\\GameTerms\\Abilities\\AbilityNeighborhood.cs",
+              "ToolTip": "E:\\Projects\\Games\\Tabletop Game\\CardGame\\Game\\GameTerms\\Abilities\\AbilityNeighborhood.cs",
+              "RelativeToolTip": "Game\\GameTerms\\Abilities\\AbilityNeighborhood.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T11:13:43.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameNode.cs",
+              "DocumentMoniker": "E:\\Projects\\Games\\Tabletop Game\\CardGame\\Game\\GameTerms\\Units\\GameNode.cs",
+              "RelativeDocumentMoniker": "Game\\GameTerms\\Units\\GameNode.cs",
+              "ToolTip": "E:\\Projects\\Games\\Tabletop Game\\CardGame\\Game\\GameTerms\\Units\\GameNode.cs",
+              "RelativeToolTip": "Game\\GameTerms\\Units\\GameNode.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAYwBcAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T10:53:43.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SkillMove.cs",
+              "DocumentMoniker": "E:\\Projects\\Games\\Tabletop Game\\CardGame\\Game\\GameTerms\\Skills\\SkillMove.cs",
+              "RelativeDocumentMoniker": "Game\\GameTerms\\Skills\\SkillMove.cs",
+              "ToolTip": "E:\\Projects\\Games\\Tabletop Game\\CardGame\\Game\\GameTerms\\Skills\\SkillMove.cs",
+              "RelativeToolTip": "Game\\GameTerms\\Skills\\SkillMove.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T04:40:14.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SkillCast.cs",
+              "DocumentMoniker": "E:\\Projects\\Games\\Tabletop Game\\CardGame\\Game\\GameTerms\\Skills\\SkillCast.cs",
+              "RelativeDocumentMoniker": "Game\\GameTerms\\Skills\\SkillCast.cs",
+              "ToolTip": "E:\\Projects\\Games\\Tabletop Game\\CardGame\\Game\\GameTerms\\Skills\\SkillCast.cs",
+              "RelativeToolTip": "Game\\GameTerms\\Skills\\SkillCast.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T13:06:45.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Projects\\Games\\Tabletop Game\\CardGame\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\Projects\\Games\\Tabletop Game\\CardGame\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T05:46:20.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Cast.cs",
+              "DocumentMoniker": "E:\\Projects\\Games\\Tabletop Game\\CardGame\\Game\\GameTerms\\Skills\\Cast.cs",
+              "RelativeDocumentMoniker": "Game\\GameTerms\\Skills\\Cast.cs",
+              "ToolTip": "E:\\Projects\\Games\\Tabletop Game\\CardGame\\Game\\GameTerms\\Skills\\Cast.cs",
+              "RelativeToolTip": "Game\\GameTerms\\Skills\\Cast.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwAsAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T08:53:59.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TargetSelectors.cs",
+              "DocumentMoniker": "E:\\Projects\\Games\\Tabletop Game\\CardGame\\Game\\GameTerms\\Skills\\TargetSelectors.cs",
+              "RelativeDocumentMoniker": "Game\\GameTerms\\Skills\\TargetSelectors.cs",
+              "ToolTip": "E:\\Projects\\Games\\Tabletop Game\\CardGame\\Game\\GameTerms\\Skills\\TargetSelectors.cs",
+              "RelativeToolTip": "Game\\GameTerms\\Skills\\TargetSelectors.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T05:47:43.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Target.cs",
+              "DocumentMoniker": "E:\\Projects\\Games\\Tabletop Game\\CardGame\\Game\\Utilities\\Target.cs",
+              "RelativeDocumentMoniker": "Game\\Utilities\\Target.cs",
+              "ToolTip": "E:\\Projects\\Games\\Tabletop Game\\CardGame\\Game\\Utilities\\Target.cs",
+              "RelativeToolTip": "Game\\Utilities\\Target.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T05:34:27.38Z"
             }
           ]
         }

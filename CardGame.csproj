@@ -46,23 +46,40 @@
     <Content Include=".gitattributes" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Game\GameEvents\Info.cs" />
-    <Compile Include="Game\GameEvents\Orders.cs" />
+    <Compile Include="Game\Game.cs" />
+    <Compile Include="Game\GameEvents\Event.cs" />
+    <Compile Include="Game\GameEvents\EventSystem.cs" />
+    <Compile Include="Game\GameTerms\Abilities\Ability.cs" />
+    <Compile Include="Game\GameTerms\Abilities\AbilityNeighborhood.cs" />
+    <Compile Include="Game\GameTerms\Abilities\AbilityOrder.cs" />
+    <Compile Include="Game\GameTerms\Decks.cs" />
+    <Compile Include="Game\GameTerms\ObjectInitializer.cs" />
+    <Compile Include="Game\GameTerms\PlayerHandle.cs" />
+    <Compile Include="Game\GameTerms\Abilities\Wanted.cs" />
+    <Compile Include="Game\GameTerms\Skills\Cast.cs" />
+    <Compile Include="Game\GameTerms\Skills\SkillCast.cs" />
+    <Compile Include="Game\GameTerms\Skills\SkillMove.cs" />
+    <Compile Include="Game\GameTerms\Skills\TargetSelectors.cs" />
+    <Compile Include="Game\GameTerms\Abilities\AbilityMove.cs" />
+    <Compile Include="Game\GameTerms\Abilities\AbilityUnitKeeping.cs" />
+    <Compile Include="Game\GameTerms\Units\GameNode.cs" />
+    <Compile Include="Game\GameTerms\Units\Token.cs" />
+    <Compile Include="Game\GameTerms\Units\UnitHandle.cs" />
+    <Compile Include="Game\Global.cs" />
+    <Compile Include="Game\Utilities\Target.cs" />
+    <Compile Include="Lib\EventSystem\EventManager.cs" />
+    <Compile Include="Lib\EventSystem\Handle.cs" />
     <Compile Include="Game\GameTerms\Player.cs" />
-    <Compile Include="Game\GameTerms\Tokens.cs" />
-    <Compile Include="Game\GameTerms\Units.cs" />
+    <Compile Include="Game\GameTerms\Units\Units.cs" />
     <Compile Include="Lib\EventSystem\Effect.cs" />
     <Compile Include="Lib\EventSystem\Order.cs" />
-    <Compile Include="Game\GameTerms\Cards.cs" />
     <Compile Include="Game\GameEvents\Effects.cs" />
     <Compile Include="Game\GameProgess.cs" />
     <Compile Include="Game\GameTerms\CardUtility.cs" />
-    <Compile Include="Game\GameTerms\GameTerms.cs" />
-    <Compile Include="Game\GameEvents\Events.cs" />
+    <Compile Include="Game\GameEvents\Events\UnitEvents.cs" />
     <Compile Include="Game\GameTerms\PlayerUtility.cs" />
     <Compile Include="Lib\Deck\Deck.cs" />
     <Compile Include="Lib\EventSystem\Trigger.cs" />
-    <Compile Include="Lib\EventSystem\Event.cs" />
     <Compile Include="Program.cs" />
   </ItemGroup>
   <ItemGroup>

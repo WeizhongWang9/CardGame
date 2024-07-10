@@ -1,10 +1,9 @@
-using CardGame.EventSystem;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Media;
 using System.Text;
-using CardGame.GameTerms;
+using CardGame.Game.GameTerms;
 
 namespace GameProgress
 {
@@ -31,7 +30,7 @@ namespace GameProgress
             GameNode gameNode =  new GameNode();
             Player playerA = new Player("A");
             Player playerB = new Player("B");
-            Unit unitA = new Unit(playerA, "UA", "",Role.Police, gameNode);
+            Unit unitA = new Unit(null);
             Unit firstPlay = unitA;
             List<Player> players = new List<Player>();
             List<Unit> units= new List<Unit>();

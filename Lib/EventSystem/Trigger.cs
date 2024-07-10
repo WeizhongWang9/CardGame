@@ -4,7 +4,11 @@ using System;
 
 namespace CardGame.Lib.EventSystem
 {
-    public class Trigger<T>
+    public interface ITrigger
+    {
+        bool isActive();
+    }
+    public class Trigger<T> : ITrigger
     {
         int priority;
         bool active;
@@ -16,10 +20,10 @@ namespace CardGame.Lib.EventSystem
             this.priority = priority;
         }
 
-        public void SetActive(bool active) { this.active = active; }
-        public bool IsActive() { return active; }
-        public void Execute(T info) { action.Invoke(info); }
-        public int GetPriority() { return priority; }
+        public void setActive(bool active) { this.active = active; }
+        public bool isActive() { return active; }
+        public void execute(T info) { action?.Invoke(info); }
+        public int getPriority() { return priority; }
     }
 
 }

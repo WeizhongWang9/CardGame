@@ -3,12 +3,14 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using CardGame.Game.GameTerms;
-using CardGame.Game.GameTerms.Cards;
+//using CardGame.Game.GameTerms.Cards;
 using CardGame.Lib.Deck;
-using CardGame.GameEvents.BasicEffects;
-
+//using CardGame.GameEvents.BasicEffects;
+using CardGame.GameEvents.UnitEvents;
+/*
 namespace CardGame.Game.GameTerms.Cards.Utility
 {
+
     public class CardSlot 
     {
         protected List<Card> cards;
@@ -34,10 +36,11 @@ namespace CardGame.Game.GameTerms.Cards.Utility
     {
         void Buy(Player player, Card card)
         {
-            EffectList.buyCard.call(player, card);
+            PlayerEvents.BuyCard.call(new GameEvents.Info.InfoPlayerBuy(player,card));
             showcase.Remove(card);
             drawToShowcase(true, true, false, false);
         }
     }
     
 }
+*/
