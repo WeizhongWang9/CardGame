@@ -17,5 +17,9 @@ namespace CardGame.Game.GameTerms.Units
 
         public GameNode loc { get { return _loc; } set { _loc = value; } }
 
+        public Token()
+        {
+        }
     }
+
 }

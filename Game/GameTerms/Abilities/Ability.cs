@@ -1,4 +1,5 @@
 ﻿using CardGame.Game.GameEvents;
+using CardGame.Game.GameTerms.Units;
 using CardGame.GameEvents.UnitEvents;
 using System;
 using System.Collections.Generic;
@@ -18,22 +19,6 @@ namespace CardGame.Game.GameTerms.Abilities
         {
             Remove(e.getTriggerUnit());
         }
-        /*
-        public void Add(Unit unit,TVALUE vALUE)
-        {
-            Add(unit.getHandle(),vALUE);
-        }
-
-        public bool TryGetValue(Unit unit, out TVALUE data)
-        {
-            return TryGetValue(unit.getHandle(), out data);
-        }
-
-        public bool ContainsKey(Unit unit)
-        {
-            return ContainsKey(unit.getHandle());
-        }
-        */
     }
 
 }

@@ -29,20 +29,26 @@ namespace CardGame.Game
     public class AbilityHandle
     {
         Game game;
-        public AbilityWanted abilityWanted;
+        public AbilityNonNegativeSingle abilityWanted;
         public AbilityMove abilityMove;
         public AbilityOrder abilityOrder;
         public AbilityUnitKeeping abilityGameNodeKeepUnits;
         public AbilityNeighborhood abilityGameNodeNeighborhood;
-
+        public AbilityChaoticMeasure abilityGameNodeChaoticMeasure;
+        public AbilityNonNegativeSingle abilityMoney;
+        public AbilityCarry abilityCarry;
         public AbilityHandle(Game game)
         {
             this.game = game;
-            abilityWanted = new AbilityWanted(game);
+            abilityWanted = new AbilityNonNegativeSingle(game);
             abilityMove = new AbilityMove(game);
             abilityOrder = new AbilityOrder(game);
             abilityGameNodeKeepUnits = new AbilityUnitKeeping(game);
             abilityGameNodeNeighborhood = new AbilityNeighborhood(game);
+            abilityGameNodeChaoticMeasure = new AbilityChaoticMeasure(game);
+            abilityMoney = new AbilityNonNegativeSingle(game);
+            abilityCarry = new AbilityCarry(game);
+
         }
     }
 }

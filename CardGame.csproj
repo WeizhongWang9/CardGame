@@ -50,8 +50,12 @@
     <Compile Include="Game\GameEvents\Event.cs" />
     <Compile Include="Game\GameEvents\EventSystem.cs" />
     <Compile Include="Game\GameTerms\Abilities\Ability.cs" />
+    <Compile Include="Game\GameTerms\Abilities\AbilityCarry.cs" />
+    <Compile Include="Game\GameTerms\Abilities\AbilityChaoticMeasure.cs" />
     <Compile Include="Game\GameTerms\Abilities\AbilityNeighborhood.cs" />
     <Compile Include="Game\GameTerms\Abilities\AbilityOrder.cs" />
+    <Compile Include="Game\GameTerms\Abilities\AbilityPolice.cs" />
+    <Compile Include="Game\GameTerms\Abilities\AbilitySingleProperty.cs" />
     <Compile Include="Game\GameTerms\Decks.cs" />
     <Compile Include="Game\GameTerms\ObjectInitializer.cs" />
     <Compile Include="Game\GameTerms\PlayerHandle.cs" />
@@ -63,6 +67,7 @@
     <Compile Include="Game\GameTerms\Abilities\AbilityMove.cs" />
     <Compile Include="Game\GameTerms\Abilities\AbilityUnitKeeping.cs" />
     <Compile Include="Game\GameTerms\Units\GameNode.cs" />
+    <Compile Include="Game\GameTerms\Units\Role.cs" />
     <Compile Include="Game\GameTerms\Units\Token.cs" />
     <Compile Include="Game\GameTerms\Units\UnitHandle.cs" />
     <Compile Include="Game\Global.cs" />

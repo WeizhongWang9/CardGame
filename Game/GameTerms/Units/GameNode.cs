@@ -16,6 +16,17 @@ namespace CardGame.Game.GameTerms.Units
             var handle = Global.getAbilityHandle();
             handle.abilityGameNodeKeepUnits.setData(this);
             handle.abilityGameNodeNeighborhood.setData(this);
+            handle.abilityGameNodeChaoticMeasure.setData(this);
+        }
+        public void addChaoticMeasure(int val)
+        {
+            var ability = Global.getAbilityHandle().abilityGameNodeChaoticMeasure;
+            ability.getAttribute(this).property += val;
+        }
+        public void setChaoticMeasure(int val)
+        {
+            var ability = Global.getAbilityHandle().abilityGameNodeChaoticMeasure;
+            ability.getAttribute(this).property = val;
         }
 
         public void addUnitOnGameNode(Token unit)

@@ -10,7 +10,7 @@ namespace CardGame.Game.GameTerms.Abilities
     public class AbilityMove : EventSystem
     {
 
-        class Data
+        protected class Data
         {
             public Attribute attribute;
         }
@@ -21,13 +21,7 @@ namespace CardGame.Game.GameTerms.Abilities
         {
         }
 
-        public Attribute getAttribute(Token unit) => datas[unit].attribute;
-        public void setData(Token unit, Attribute attribute)
-        {
-            var dt = new Data();
-            dt.attribute = attribute;
-            datas.Add(unit,dt);
-        }
+        
         public bool recoverMovePoint(Token unit)
         {
             if (datas.TryGetValue(unit, out var data))
@@ -38,6 +32,13 @@ namespace CardGame.Game.GameTerms.Abilities
             }
             return false;
         }
+        public Attribute getAttribute(Unit unit)
+        {
+            if (datas.TryGetValue(unit, out var dt))
+                return dt.attribute;
+            return null;
+        }
+
         public bool move(Token unit, GameNode gameNode )
         {
             var attribute = getAttribute(unit);
